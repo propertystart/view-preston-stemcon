@@ -52,8 +52,8 @@ const About: React.FC = () => {
         <div className="order-1 md:order-2">
           <div className="relative">
             <ImageReveal
-              src="https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&q=80&w=2070"
-              alt="The View Preston Interior"
+              src="/lovable-uploads/d36ddae9-76ae-4ca6-bdf3-a1ef5f3776fc.png"
+              alt="The View Preston Luxury Apartment Interior"
               aspectRatio="aspect-[3/4]"
               className="rounded-sm overflow-hidden"
               animation="slide-left"
