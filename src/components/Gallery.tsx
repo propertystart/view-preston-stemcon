@@ -37,7 +37,7 @@ const Gallery: React.FC = () => {
     },
     {
       id: 4,
-      src: "https://images.unsplash.com/photo-1613545325278-f24b0cae1224?auto=format&fit=crop&q=80&w=2070",
+      src: "/lovable-uploads/49a0df24-c674-4e1c-93d1-adf5c55d752f.png",
       alt: "Modern bathroom design",
       category: "interior"
     },
