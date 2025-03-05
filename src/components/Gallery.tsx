@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import AnimatedText from './AnimatedText';
 import ImageReveal from './ImageReveal';
@@ -19,8 +18,8 @@ const Gallery: React.FC = () => {
   const galleryItems: GalleryItem[] = [
     {
       id: 1,
-      src: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&q=80&w=2835",
-      alt: "Modern apartment exterior",
+      src: "/lovable-uploads/306c5733-1c30-4cf9-9ae8-90ffc8d5ee63.png",
+      alt: "Modern apartment exterior facade",
       category: "exterior"
     },
     {
