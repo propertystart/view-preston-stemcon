@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react';
 import AnimatedText from './AnimatedText';
 import ImageReveal from './ImageReveal';
@@ -48,8 +49,8 @@ const Gallery: React.FC = () => {
     },
     {
       id: 6,
-      src: "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&q=80&w=2074",
-      alt: "Fitness center",
+      src: "/lovable-uploads/90fe0702-16ea-40e6-beb5-ee2e3e585bf6.png",
+      alt: "Generous bedrooms",
       category: "amenities"
     }
   ];
